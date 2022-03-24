@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="За Вьетнам">
+        <menu>
+            <item android:title="кинуть снаймпера" android:id="@+id/snaimper" android:icon="@drawable/snaimperka"/>
+            <item android:title="кинуть танк" android:id="@+id/tank" android:icon="@drawable/tank"/>
+            <item android:title="кинуть самолёт" android:id="@+id/camalet" android:icon="@drawable/samolet"/>
+        </menu>
+    </item>
+</menu>
